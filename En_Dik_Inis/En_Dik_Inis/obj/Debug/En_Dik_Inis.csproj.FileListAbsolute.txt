@@ -1,0 +1,7 @@
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\bin\Debug\En_Dik_Inis.exe.config
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\bin\Debug\En_Dik_Inis.exe
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\bin\Debug\En_Dik_Inis.pdb
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\obj\Debug\En_Dik_Inis.csprojAssemblyReference.cache
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\obj\Debug\En_Dik_Inis.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\obj\Debug\En_Dik_Inis.exe
+C:\Users\berat\source\repos\En_Dik_Inis\En_Dik_Inis\obj\Debug\En_Dik_Inis.pdb
